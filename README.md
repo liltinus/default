@@ -1,2 +1,2 @@
 # default
-Small Business Applications
+Test file for original GitHub learning
